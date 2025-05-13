@@ -25,7 +25,7 @@ export const AppLayout = ({ children }: { children: ReactNode }) => {
                 </div>
             </header>
 
-            <main className="pt-20">{children}</main>
+            <main className="">{children}</main>
         </div>
     );
 };
